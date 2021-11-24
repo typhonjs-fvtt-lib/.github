@@ -1,4 +1,4 @@
-## Welcome to TyphonJS-FVTT
+## Welcome to TyphonJS-FVTT-Lib
 
 We provide next-gen tooling for the [Foundry VTT](https://foundryvtt.com/) developer community and release a collection of modules aimed at making open world style campaign 
 management easier in Foundry. Please come join us on Discord on the [![Discord](https://img.shields.io/discord/737953117999726592?label=TyphonJS&style=plastic)](https://discord.gg/mnbgN8f) 
