@@ -11,6 +11,9 @@ The [TyphonJS Runtime Library](https://github.com/typhonjs-fvtt-lib/typhonjs) is
 runtime optimized for Foundry VTT with great integration into the standard Application lifecycle that all 3rd party developers are already familiar with using along with 
 several additional resources to supercharge your development experience. 
 
+Unified API documentation for TRL runtime & standard libraries is available here:
+https://typhonjs-fvtt-lib.github.io/api-docs/
+
 Please see the [typhonjs-fvtt-demo](https://github.com/typhonjs-fvtt-demo) organization for various demo repos and templates using TyphonJS FVTT libraries.
 
 For our Foundry VTT modules please visit the [typhonjs-fvtt](https://github.com/typhonjs-fvtt) organization.
